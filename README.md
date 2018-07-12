@@ -3,6 +3,6 @@
 
 #autor
 
-nombre
+nombre y apellido
 
 ##poror
